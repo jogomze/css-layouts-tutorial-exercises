@@ -1,1 +1,10 @@
-body{background:blue;}
+body {
+	background: blue;
+}
+div {
+	width: 400px;
+	background-color: lightgrey;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+}
